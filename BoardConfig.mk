@@ -30,7 +30,7 @@
 TARGET_OTA_ASSERT_DEVICE := waffle
 
 # TWRP specific build flags
-TW_FRAMERATE := 120
+TW_FRAMERATE := 60
 
 # Vibrator
 TW_SUPPORT_INPUT_AIDL_HAPTICS := true
