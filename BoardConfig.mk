@@ -24,7 +24,7 @@
 # components.
 
 # Inherit from common
--include $(COMMON_PATH)/BoardConfigCommon.mk
+-include $(DEVICE_PATH)/BoardConfigCommon.mk
 
 # Recovery
 TARGET_OTA_ASSERT_DEVICE := waffle
